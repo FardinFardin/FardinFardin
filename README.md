@@ -3,7 +3,7 @@
 
 As a passionate Front End Web Developer, I build error-free, client-satisfying websites. I love solving real-world problems using Java, JavaScript, PHP, and WordPress.
 
-Skills:  C++/REACT / JS / HTML / CSS/PHP
+Skills:  C++/Java / JS / HTML / CSS/PHP
 
 - 🌱 I’m currently learning PYTHON 
 - 👯 I’m looking to collaborate on Github 
