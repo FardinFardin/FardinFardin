@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I am Fardin
+#### Web Developer
+
+As a passionate Front End Web Developer, I build error-free, client-satisfying websites. I love solving real-world problems using ReactJS, JavaScript, PHP, and WordPress.
+
+Skills:  C++/REACT / JS / HTML / CSS/PHP
+
+- 🌱 I’m currently learning PYTHON 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Data Structures 
 
 
-**FardinFardin/FardinFardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FardinFardin)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
