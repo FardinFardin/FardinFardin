@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Fardin
 #### Web Developer
 
-As a passionate Front End Web Developer, I build error-free, client-satisfying websites. I love solving real-world problems using ReactJS, JavaScript, PHP, and WordPress.
+As a passionate Front End Web Developer, I build error-free, client-satisfying websites. I love solving real-world problems using Java, JavaScript, PHP, and WordPress.
 
 Skills:  C++/REACT / JS / HTML / CSS/PHP
 
